@@ -1,0 +1,137 @@
+.container {
+  min-width: 500px;
+  margin: 0 auto;
+}
+
+a {
+  text-decoration: none;
+  color: #2c3e50;
+}
+
+p {
+  color: #2c3e50;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 16px;
+  margin-top: 0px;
+}
+
+.top-menu {
+  color: #2c3e50;
+  height: 25px;
+  padding: 10px 10px;
+}
+
+.top-menu img {
+  width: 25px;
+  height: 25px;
+  float: right;
+  padding-left: 10px;
+}
+
+.top-menu .top-menu-text {
+  padding-right: 30px;
+  float: left;
+}
+
+.top-menu .top-menu-marquee {
+  width: 600px;
+  padding-right: 10px;
+  float: left;
+}
+
+.header {
+  height: 100px;
+  background-color: wheat;
+  padding: 10px 0px 0px 10px;
+  font-size: 64px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: chocolate;
+  text-align: center;
+}
+
+.header img {
+  width: 90px;
+  height: 90px;
+  padding: 0px 10px 0px 0px;
+}
+
+.menu {
+  background-color: chocolate;
+  height: 30px;
+  text-align: center;
+}
+
+.menu table {
+  margin: 0 auto;
+  width: 600px;
+  text-decoration: none;
+  color: #2c3e50;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 16px;
+}
+
+.section {
+  margin: 10px 10px;
+}
+
+.section img {
+  height: 500px;
+  float: left;
+  padding-right: 10px;
+}
+
+.section video {
+  height: 350px;
+  float: left;
+  padding-right: 30px;
+}
+
+.section a {
+  color: brown;
+}
+
+.section .section-text {
+  text-align: justify;
+  color: #2c3e50;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 16px;
+}
+
+.section .section-text img {
+  width: 200px;
+  height: 200px;
+}
+
+.yukari-cik img {
+  width: 50px;
+  height: 50px;
+  position: fixed;
+  right: 50px;
+  bottom: 10px;
+}
+
+.footer-ust {
+  background-color: wheat;
+  height: 300px;
+  padding: 20px 0px;
+}
+
+.footer-ust iframe {
+  width: 600px;
+  height: 300px;
+}
+
+.footer-alt {
+  background-color: black;
+  height: 50px;
+  padding-top: 25px;
+  text-align: center;
+  color: wheat;
+}
+
+.clear {
+  clear: both;
+}
